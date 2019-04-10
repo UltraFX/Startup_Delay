@@ -1,0 +1,7 @@
+This is a little code for a startup delay for audio amplifiers.
+
+With a soft-switch, one relay will turn on and provide power to the amplifier.
+After a delay of 5 seconds, another (or more) relay(s) will turn on and connect the loudspeaker(s) to the amp.
+
+This avoids DC current to the speakers while the capacitors are getting charged.
+
