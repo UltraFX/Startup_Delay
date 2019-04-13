@@ -2,7 +2,7 @@
  * Verzoegerung.c
  *
  * Created: 04.04.2019 22:50:55
- * Author : Nico
+ * Author : Nicolas "Ultr@ FX" Dammin
  */ 
 
 #ifndef F_CPU
